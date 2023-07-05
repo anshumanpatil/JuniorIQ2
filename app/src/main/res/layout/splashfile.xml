@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/black">
+
+    <ImageView
+        android:id="@+id/junioriq_splash"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:src="@drawable/junioriq_splash" />
+
+    <TextView
+        android:id="@+id/nameapp"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignTop="@+id/junioriq_splash"
+        android:text="JuniorIQ"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#FDFDFD"
+        android:textSize="48sp" />
+
+
+</RelativeLayout>
