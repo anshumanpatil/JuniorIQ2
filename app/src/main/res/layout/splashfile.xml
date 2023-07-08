@@ -12,16 +12,16 @@
         android:layout_centerInParent="true"
         android:src="@drawable/junioriq_splash" />
 
-    <TextView
-        android:id="@+id/nameapp"
-        android:layout_width="match_parent"
-        android:layout_height="70dp"
-        android:layout_alignTop="@+id/junioriq_splash"
-        android:text="JuniorIQ"
-        android:textAlignment="center"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
-        android:textColor="#FDFDFD"
-        android:textSize="48sp" />
+<!--    <TextView-->
+<!--        android:id="@+id/nameapp"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="70dp"-->
+<!--        android:layout_alignTop="@+id/junioriq_splash"-->
+<!--        android:text="JuniorIQ"-->
+<!--        android:textAlignment="center"-->
+<!--        android:textAppearance="@style/TextAppearance.AppCompat.Body1"-->
+<!--        android:textColor="#FDFDFD"-->
+<!--        android:textSize="48sp" />-->
 
 
 </RelativeLayout>
